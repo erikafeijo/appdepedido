@@ -1,0 +1,20 @@
+[
+  {
+    "Data": "[{\"Cor\":\"Preta\",\"Descri\\u00E7\\u00E3o\":\"Motorola Moto G30 128GB Dark Prism 4G\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g30-128gb-dark-prism-4g-4gb-ram-tela-65-cam-quadrupla-selfie-13mp/magazineluiza/155626300/901adab2540095c6abd9e56b981feb82.jpg\",\"Nome\":\"Smartphone\",\"Pre\\u00E7o\":1789},{\"Cor\":\"Cinza\",\"Descri\\u00E7\\u00E3o\":\"Wi-Fi HDR Intelig\\u00EAncia Artificial 2 HDMI USB\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/smart-tv-led-40-tcl-40s6500-full-hd-android-wi-fi-hdr-inteligencia-artificial-2-hdmi-usb/magazineluiza/193425200/45851ccea6fe551e677779526d992712.jpg\",\"Nome\":\"Smart TV\",\"Pre\\u00E7o\":1600},{\"Cor\":\"Cinza\",\"Descri\\u00E7\\u00E3o\":\"Chromebook Samsung XE310XBA-KT1BR Intel Celeron \",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/chromebook-samsung-xe310xba-kt1br-intel-celeron-dual-core-4gb-32gb-emmc-116-chrome-os/magazineluiza/228817600/3fc6c6cbf9a416924a6c8ffc82f0a118.jpg\",\"Nome\":\"Notebook\",\"Pre\\u00E7o\":1800},{\"Cor\":\"Marron\",\"Descri\\u00E7\\u00E3o\":\"Conjunto Sala de Jantar Madesa Aline Mesa Tampo de Vidro com 4 Cadeiras\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/conjunto-sala-de-jantar-madesa-aline-mesa-tampo-de-vidro-com-4-cadeiras/madesamoveis/045747g4tper/a6464a68cfc2b6a750a750e4357c2b26.jpg\",\"Nome\":\"Mesa \",\"Pre\\u00E7o\":600},{\"Cor\":\"Branco\",\"Descri\\u00E7\\u00E3o\":\"Guarda Roupa de casal com espelho 3 portas \",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/guarda-roupa-casal-com-espelho-3-portas-de-correr-lara-espresso-moveis-branco/madeiramadeira-openapi/174028/0e43e7c8c63c870a03762872811d232e.jpg\",\"Nome\":\"Guarda Roupa\",\"Pre\\u00E7o\":1000},{\"Cor\":\"Vermelha\",\"Descri\\u00E7\\u00E3o\":\"Cadeira Gamer Nell Preta e Vermelha\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/cadeira-gamer-nell-preta-e-vermelha-nell100/magazineluiza/122802300/80e4dc04199b2d531b42f8f52cbbbe11.jpg\",\"Nome\":\"Cadeira Gamer \",\"Pre\\u00E7o\":600},{\"Cor\":\"Preta\",\"Descri\\u00E7\\u00E3o\":\"Impressora multifucional EcoTank\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/impressora-multifuncional-epson-ecotank-l3150-tanque-de-tinta-wi-fi-colorida-usb/magazineluiza/222018500/c6b5c01aa232921290d6df8b687479ca.jpg\",\"Nome\":\"Impressora\",\"Pre\\u00E7o\":1000},{\"Cor\":\"Cinza\",\"Descri\\u00E7\\u00E3o\":\"Sof\\u00E1 Retr\\u00E1til Reclin\\u00E1vel 3 Lugares Suede\",\"Imagem\":\"https://a-static.mlcdn.com.br/618x463/sofa-retratil-reclinavel-3-lugares-suede-moscow-besthouse/magazineluiza/121936208/79483ea62a99e94acf3edd4e742805b9.jpg\",\"Nome\":\"Sof\\u00E1 \",\"Pre\\u00E7o\":900}]",
+    "IsSampleData": false,
+    "IsWritable": false,
+    "Name": "Produtos",
+    "OrderedColumnNames": [
+      "Nome",
+      "Descrição",
+      "Preço",
+      "Cor",
+      "Imagem"
+    ],
+    "OriginalName": "Produtos",
+    "OriginalSchema": "*[Cor:s, Descrição:s, Imagem:i, Nome:s, Preço:n]",
+    "Schema": "*[Cor:s, Descrição:s, Imagem:i, Nome:s, Preço:n]",
+    "Token": "dummyToken",
+    "Type": "StaticDataSourceInfo"
+  }
+]
